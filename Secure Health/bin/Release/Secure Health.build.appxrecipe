@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HOME-PC</Machine>
+    <WindowsUser>Bhavana</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>846554e6-5e33-47e1-8224-03e533f7a773</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Secure Health\Secure Health\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\Secure Health.exe">
+      <PackagePath>Secure Health.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\anxiety.jpg">
+      <PackagePath>Assets\anxiety.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\dep.jpg">
+      <PackagePath>Assets\dep.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\headaches-1.jpg">
+      <PackagePath>Assets\headaches-1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\low.jpg">
+      <PackagePath>Assets\low.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\Meditation.jpg">
+      <PackagePath>Assets\Meditation.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\muscle.jpg">
+      <PackagePath>Assets\muscle.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\relax.jpg">
+      <PackagePath>Assets\relax.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\releive.jpg">
+      <PackagePath>Assets\releive.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\severe_body_pains.jpg">
+      <PackagePath>Assets\severe_body_pains.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\small3030.jpg">
+      <PackagePath>Assets\small3030.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\strength-training1.jpg">
+      <PackagePath>Assets\strength-training1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\apples.jpg">
+      <PackagePath>Assets\apples.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\avoidoil.jpg">
+      <PackagePath>Assets\avoidoil.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\Bad_breath_cartoon.jpg">
+      <PackagePath>Assets\Bad_breath_cartoon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\calendula.jpg">
+      <PackagePath>Assets\calendula.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\consalt.jpg">
+      <PackagePath>Assets\consalt.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\Day-creams.jpg">
+      <PackagePath>Assets\Day-creams.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\dental.jpg">
+      <PackagePath>Assets\dental.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\digestion.jpg">
+      <PackagePath>Assets\digestion.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\eggyolk.jpg">
+      <PackagePath>Assets\eggyolk.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\exfoliate.jpg">
+      <PackagePath>Assets\exfoliate.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\eyeproblems.jpg">
+      <PackagePath>Assets\eyeproblems.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\eyesigh.jpg">
+      <PackagePath>Assets\eyesigh.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\fiberfood.jpg">
+      <PackagePath>Assets\fiberfood.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\good.jpg">
+      <PackagePath>Assets\good.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\handfra.jpg">
+      <PackagePath>Assets\handfra.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\Healthy-Eating-In-The-Usa.jpg">
+      <PackagePath>Assets\Healthy-Eating-In-The-Usa.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\image066.jpg">
+      <PackagePath>Assets\image066.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\injuries.jpg">
+      <PackagePath>Assets\injuries.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\leg.jpg">
+      <PackagePath>Assets\leg.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\lemon.jpg">
+      <PackagePath>Assets\lemon.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\lifestyle.jpg">
+      <PackagePath>Assets\lifestyle.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\natural-herbs-500x500.jpg">
+      <PackagePath>Assets\natural-herbs-500x500.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\oral.jpg">
+      <PackagePath>Assets\oral.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\protein-diet-plan.jpg">
+      <PackagePath>Assets\protein-diet-plan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\skinproblem.jpg">
+      <PackagePath>Assets\skinproblem.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\stress1.jpg">
+      <PackagePath>Assets\stress1.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\toothcare.JPG">
+      <PackagePath>Assets\toothcare.JPG</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\washface.jpg">
+      <PackagePath>Assets\washface.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\yoga.jpg">
+      <PackagePath>Assets\yoga.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\yogurt.jpg">
+      <PackagePath>Assets\yogurt.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\batch2424.png">
+      <PackagePath>Assets\batch2424.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\newsplash copy.png">
+      <PackagePath>Assets\newsplash copy.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\smile.png">
+      <PackagePath>Assets\smile.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\ayurved.png">
+      <PackagePath>Assets\ayurved.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\finger.png">
+      <PackagePath>Assets\finger.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\juice.png">
+      <PackagePath>Assets\juice.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\wide copy.png">
+      <PackagePath>Assets\wide copy.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\body_aches.jpeg">
+      <PackagePath>Assets\body_aches.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\eye.jpeg">
+      <PackagePath>Assets\eye.jpeg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,68 @@
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\bin\Release\Secure Health.exe
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\bin\Release\Secure Health.pdb
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\bin\Release\resources.pri
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\bin\Release\AppxManifest.xml
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\bin\Release\Secure Health.build.appxrecipe
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\App.g.i.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\App.g.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\Common\StandardStyles.g.i.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\Common\StandardStyles.g.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\GroupedItemsPage.g.i.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\GroupedItemsPage.g.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\GroupDetailPage.g.i.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\GroupDetailPage.g.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\ItemDetailPage.g.i.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\ItemDetailPage.g.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\XamlTypeInfo.g.cs
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\App.xaml
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\Common\StandardStyles.xaml
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\GroupedItemsPage.xaml
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\GroupDetailPage.xaml
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\ItemDetailPage.xaml
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\Secure Health.exe
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\Secure Health.pdb
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\priconfig.xml.intermediate
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\layout.resfiles.intermediate
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\resources.resfiles.intermediate
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\pri.resfiles.intermediate
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\priconfig.xml
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\layout.resfiles
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\resources.resfiles
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\pri.resfiles
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\LanguageQualifiers.txt
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Release\ProjectArchitectures.txt
+D:\Secure Health\Secure Health\bin\Release\Secure Health.exe
+D:\Secure Health\Secure Health\bin\Release\Secure Health.pdb
+D:\Secure Health\Secure Health\bin\Release\resources.pri
+D:\Secure Health\Secure Health\bin\Release\AppxManifest.xml
+D:\Secure Health\Secure Health\bin\Release\Secure Health.build.appxrecipe
+D:\Secure Health\Secure Health\obj\Release\App.g.i.cs
+D:\Secure Health\Secure Health\obj\Release\App.g.cs
+D:\Secure Health\Secure Health\obj\Release\Common\StandardStyles.g.i.cs
+D:\Secure Health\Secure Health\obj\Release\Common\StandardStyles.g.cs
+D:\Secure Health\Secure Health\obj\Release\GroupedItemsPage.g.i.cs
+D:\Secure Health\Secure Health\obj\Release\GroupedItemsPage.g.cs
+D:\Secure Health\Secure Health\obj\Release\GroupDetailPage.g.i.cs
+D:\Secure Health\Secure Health\obj\Release\GroupDetailPage.g.cs
+D:\Secure Health\Secure Health\obj\Release\ItemDetailPage.g.i.cs
+D:\Secure Health\Secure Health\obj\Release\ItemDetailPage.g.cs
+D:\Secure Health\Secure Health\obj\Release\XamlTypeInfo.g.cs
+D:\Secure Health\Secure Health\obj\Release\App.xaml
+D:\Secure Health\Secure Health\obj\Release\Common\StandardStyles.xaml
+D:\Secure Health\Secure Health\obj\Release\GroupedItemsPage.xaml
+D:\Secure Health\Secure Health\obj\Release\GroupDetailPage.xaml
+D:\Secure Health\Secure Health\obj\Release\ItemDetailPage.xaml
+D:\Secure Health\Secure Health\obj\Release\Secure Health.exe
+D:\Secure Health\Secure Health\obj\Release\Secure Health.pdb
+D:\Secure Health\Secure Health\obj\Release\priconfig.xml
+D:\Secure Health\Secure Health\obj\Release\priconfig.xml.intermediate
+D:\Secure Health\Secure Health\obj\Release\layout.resfiles
+D:\Secure Health\Secure Health\obj\Release\layout.resfiles.intermediate
+D:\Secure Health\Secure Health\obj\Release\resources.resfiles
+D:\Secure Health\Secure Health\obj\Release\resources.resfiles.intermediate
+D:\Secure Health\Secure Health\obj\Release\pri.resfiles
+D:\Secure Health\Secure Health\obj\Release\pri.resfiles.intermediate
+D:\Secure Health\Secure Health\obj\Release\qualifiers.txt
+D:\Secure Health\Secure Health\obj\Release\qualifiers.txt.intermediate
+D:\Secure Health\Secure Health\obj\Release\MultipleQualifiersPerDimensionFound.txt
+D:\Secure Health\Secure Health\obj\Release\ProjectArchitectures.txt

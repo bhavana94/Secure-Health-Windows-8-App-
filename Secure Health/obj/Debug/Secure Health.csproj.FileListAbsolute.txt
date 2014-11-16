@@ -1,0 +1,33 @@
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\bin\Debug\Secure Health.exe
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\bin\Debug\Secure Health.pdb
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\bin\Debug\resources.pri
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\bin\Debug\AppxManifest.xml
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\bin\Debug\Secure Health.build.appxrecipe
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\App.g.i.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\App.g.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\Common\StandardStyles.g.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\GroupedItemsPage.g.i.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\GroupedItemsPage.g.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\GroupDetailPage.g.i.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\GroupDetailPage.g.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\ItemDetailPage.g.i.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\ItemDetailPage.g.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\XamlTypeInfo.g.cs
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\App.xaml
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\Common\StandardStyles.xaml
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\GroupedItemsPage.xaml
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\GroupDetailPage.xaml
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\ItemDetailPage.xaml
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\Secure Health.exe
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\Secure Health.pdb
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\priconfig.xml
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\layout.resfiles
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\resources.resfiles
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\pri.resfiles
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\LanguageQualifiers.txt
+c:\users\bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\ProjectArchitectures.txt
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\priconfig.xml.intermediate
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\layout.resfiles.intermediate
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\resources.resfiles.intermediate
+C:\Users\Bhavana\documents\visual studio 2012\Projects\Secure Health\Secure Health\obj\Debug\pri.resfiles.intermediate

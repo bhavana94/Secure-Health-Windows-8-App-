@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="846554e6-5e33-47e1-8224-03e533f7a773" Publisher="CN=Bhavana" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>Secure Health</DisplayName>
+    <PublisherDisplayName>Bhavana</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="Secure_Health.App">
+      <VisualElements DisplayName="Secure Health" Logo="Assets\smile.png" SmallLogo="Assets\small3030.jpg" Description="Secure Health" ForegroundText="light" BackgroundColor="#00ffd2">
+        <DefaultTile ShowName="allLogos" WideLogo="Assets\wide copy.png" />
+        <SplashScreen Image="Assets\newsplash copy.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

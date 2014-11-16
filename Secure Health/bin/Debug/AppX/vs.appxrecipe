@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>BHAVANA-PC</Machine>
+    <WindowsUser>Bhavana</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E4954B13F02482731D3466A6783746BD53BB072DA8C153332E275EC06DEA20F7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>846554e6-5e33-47e1-8224-03e533f7a773_1.0.0.0_neutral__6twp99sykrseg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>846554e6-5e33-47e1-8224-03e533f7a773_6twp99sykrseg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>846554e6-5e33-47e1-8224-03e533f7a773</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Bhavana</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-03T15:31:09.129</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\bin\Debug\Secure Health.exe">
+      <PackagePath>Secure Health.exe</PackagePath>
+      <Modified>2013-12-03T17:15:55.849</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\bin\Debug\Secure Health.pdb">
+      <PackagePath>Secure Health.pdb</PackagePath>
+      <Modified>2013-12-03T17:15:55.483</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\anxiety.jpg">
+      <PackagePath>Assets\anxiety.jpg</PackagePath>
+      <Modified>2013-12-02T18:01:24.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\dep.jpg">
+      <PackagePath>Assets\dep.jpg</PackagePath>
+      <Modified>2013-12-02T17:59:03.335</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\headaches-1.jpg">
+      <PackagePath>Assets\headaches-1.jpg</PackagePath>
+      <Modified>2013-12-02T17:52:04.747</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\low.jpg">
+      <PackagePath>Assets\low.jpg</PackagePath>
+      <Modified>2013-12-02T17:49:20.219</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\Meditation.jpg">
+      <PackagePath>Assets\Meditation.jpg</PackagePath>
+      <Modified>2013-12-02T18:12:05.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\muscle.jpg">
+      <PackagePath>Assets\muscle.jpg</PackagePath>
+      <Modified>2013-12-02T17:45:51.084</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\relax.jpg">
+      <PackagePath>Assets\relax.jpg</PackagePath>
+      <Modified>2013-12-02T18:07:52.460</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\releive.jpg">
+      <PackagePath>Assets\releive.jpg</PackagePath>
+      <Modified>2013-12-02T18:04:54.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\severe_body_pains.jpg">
+      <PackagePath>Assets\severe_body_pains.jpg</PackagePath>
+      <Modified>2013-12-02T17:53:24.187</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\strength-training1.jpg">
+      <PackagePath>Assets\strength-training1.jpg</PackagePath>
+      <Modified>2013-12-02T17:21:11.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\apples.jpg">
+      <PackagePath>Assets\apples.jpg</PackagePath>
+      <Modified>2013-12-02T15:40:31.095</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\avoidoil.jpg">
+      <PackagePath>Assets\avoidoil.jpg</PackagePath>
+      <Modified>2013-12-02T15:33:05.627</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\Bad_breath_cartoon.jpg">
+      <PackagePath>Assets\Bad_breath_cartoon.jpg</PackagePath>
+      <Modified>2013-12-02T17:15:55.315</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\calendula.jpg">
+      <PackagePath>Assets\calendula.jpg</PackagePath>
+      <Modified>2013-12-02T17:01:21.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\consalt.jpg">
+      <PackagePath>Assets\consalt.jpg</PackagePath>
+      <Modified>2013-12-02T15:35:00.852</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\Day-creams.jpg">
+      <PackagePath>Assets\Day-creams.jpg</PackagePath>
+      <Modified>2013-12-02T15:47:36.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\dental.jpg">
+      <PackagePath>Assets\dental.jpg</PackagePath>
+      <Modified>2013-12-02T16:58:30.211</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\digestion.jpg">
+      <PackagePath>Assets\digestion.jpg</PackagePath>
+      <Modified>2013-12-02T15:53:35.584</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\eggyolk.jpg">
+      <PackagePath>Assets\eggyolk.jpg</PackagePath>
+      <Modified>2013-12-02T15:42:51.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\exfoliate.jpg">
+      <PackagePath>Assets\exfoliate.jpg</PackagePath>
+      <Modified>2013-12-02T15:36:44.549</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\eyeproblems.jpg">
+      <PackagePath>Assets\eyeproblems.jpg</PackagePath>
+      <Modified>2013-12-02T16:16:53.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\eyesigh.jpg">
+      <PackagePath>Assets\eyesigh.jpg</PackagePath>
+      <Modified>2013-12-02T16:50:28.597</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\fiberfood.jpg">
+      <PackagePath>Assets\fiberfood.jpg</PackagePath>
+      <Modified>2013-12-02T16:09:45.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\good.jpg">
+      <PackagePath>Assets\good.jpg</PackagePath>
+      <Modified>2013-12-02T17:06:59.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\handfra.jpg">
+      <PackagePath>Assets\handfra.jpg</PackagePath>
+      <Modified>2013-12-02T17:39:31.872</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\Healthy-Eating-In-The-Usa.jpg">
+      <PackagePath>Assets\Healthy-Eating-In-The-Usa.jpg</PackagePath>
+      <Modified>2013-12-02T15:46:08.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\image066.jpg">
+      <PackagePath>Assets\image066.jpg</PackagePath>
+      <Modified>2013-12-02T17:09:29.801</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\injuries.jpg">
+      <PackagePath>Assets\injuries.jpg</PackagePath>
+      <Modified>2013-12-02T17:19:20.957</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\leg.jpg">
+      <PackagePath>Assets\leg.jpg</PackagePath>
+      <Modified>2013-12-02T17:36:52.710</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\lemon.jpg">
+      <PackagePath>Assets\lemon.jpg</PackagePath>
+      <Modified>2013-12-02T16:55:34.838</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\lifestyle.jpg">
+      <PackagePath>Assets\lifestyle.jpg</PackagePath>
+      <Modified>2013-12-02T16:47:36.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\natural-herbs-500x500.jpg">
+      <PackagePath>Assets\natural-herbs-500x500.jpg</PackagePath>
+      <Modified>2013-12-02T15:59:15.709</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\oral.jpg">
+      <PackagePath>Assets\oral.jpg</PackagePath>
+      <Modified>2013-12-02T17:04:44.286</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\protein-diet-plan.jpg">
+      <PackagePath>Assets\protein-diet-plan.jpg</PackagePath>
+      <Modified>2013-12-02T16:21:55.915</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\skinproblem.jpg">
+      <PackagePath>Assets\skinproblem.jpg</PackagePath>
+      <Modified>2013-12-02T15:27:49.595</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\stress1.jpg">
+      <PackagePath>Assets\stress1.jpg</PackagePath>
+      <Modified>2013-12-02T18:03:05.056</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\toothcare.JPG">
+      <PackagePath>Assets\toothcare.JPG</PackagePath>
+      <Modified>2013-12-02T17:11:50.410</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\washface.jpg">
+      <PackagePath>Assets\washface.jpg</PackagePath>
+      <Modified>2013-12-02T15:30:05.106</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\yoga.jpg">
+      <PackagePath>Assets\yoga.jpg</PackagePath>
+      <Modified>2013-12-02T18:09:52.907</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\yogurt.jpg">
+      <PackagePath>Assets\yogurt.jpg</PackagePath>
+      <Modified>2013-12-02T16:06:41.243</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\ayurved.png">
+      <PackagePath>Assets\ayurved.png</PackagePath>
+      <Modified>2013-12-02T16:53:47.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\finger.png">
+      <PackagePath>Assets\finger.png</PackagePath>
+      <Modified>2013-12-02T17:28:48.726</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\juice.png">
+      <PackagePath>Assets\juice.png</PackagePath>
+      <Modified>2013-12-02T16:14:44.047</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\body_aches.jpeg">
+      <PackagePath>Assets\body_aches.jpeg</PackagePath>
+      <Modified>2013-12-02T17:40:40.126</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\Assets\eye.jpeg">
+      <PackagePath>Assets\eye.jpeg</PackagePath>
+      <Modified>2013-12-02T16:19:52.963</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-12-01T18:19:02.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\bin\Debug\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2013-12-01T18:19:02.875</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\bin\Debug\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2013-12-01T18:19:02.902</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\bin\Debug\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2013-12-01T18:19:02.932</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Bhavana\Documents\Visual Studio 2012\Projects\Secure Health\Secure Health\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-03T15:31:08.725</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

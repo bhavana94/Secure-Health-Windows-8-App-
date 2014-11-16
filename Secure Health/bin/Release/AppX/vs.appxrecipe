@@ -1,0 +1,288 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HOME-PC</Machine>
+    <WindowsUser>Bhavana</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>846554e6-5e33-47e1-8224-03e533f7a773</PackageIdentityName>
+    <RegisteredManifestChecksum>2BBFBB2607DFF3E033D0B1D98E21533BEAC8E00B3A78BBC6EFCEC966F2D2AE8E</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>846554e6-5e33-47e1-8224-03e533f7a773_1.0.0.0_neutral__6twp99sykrseg</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>846554e6-5e33-47e1-8224-03e533f7a773_6twp99sykrseg!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>846554e6-5e33-47e1-8224-03e533f7a773</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Bhavana</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\Secure Health\Secure Health\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-17T14:37:51.641</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\Secure Health.exe">
+      <PackagePath>Secure Health.exe</PackagePath>
+      <Modified>2013-12-17T14:37:50.452</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\anxiety.jpg">
+      <PackagePath>Assets\anxiety.jpg</PackagePath>
+      <Modified>2013-12-02T18:01:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\dep.jpg">
+      <PackagePath>Assets\dep.jpg</PackagePath>
+      <Modified>2013-12-02T17:59:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\headaches-1.jpg">
+      <PackagePath>Assets\headaches-1.jpg</PackagePath>
+      <Modified>2013-12-02T17:52:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\low.jpg">
+      <PackagePath>Assets\low.jpg</PackagePath>
+      <Modified>2013-12-02T17:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\Meditation.jpg">
+      <PackagePath>Assets\Meditation.jpg</PackagePath>
+      <Modified>2013-12-02T18:12:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\muscle.jpg">
+      <PackagePath>Assets\muscle.jpg</PackagePath>
+      <Modified>2013-12-02T17:45:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\relax.jpg">
+      <PackagePath>Assets\relax.jpg</PackagePath>
+      <Modified>2013-12-02T18:07:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\releive.jpg">
+      <PackagePath>Assets\releive.jpg</PackagePath>
+      <Modified>2013-12-02T18:04:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\severe_body_pains.jpg">
+      <PackagePath>Assets\severe_body_pains.jpg</PackagePath>
+      <Modified>2013-12-02T17:53:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\small3030.jpg">
+      <PackagePath>Assets\small3030.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-03T18:51:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\strength-training1.jpg">
+      <PackagePath>Assets\strength-training1.jpg</PackagePath>
+      <Modified>2013-12-02T17:21:12.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\apples.jpg">
+      <PackagePath>Assets\apples.jpg</PackagePath>
+      <Modified>2013-12-02T15:40:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\avoidoil.jpg">
+      <PackagePath>Assets\avoidoil.jpg</PackagePath>
+      <Modified>2013-12-02T15:33:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\Bad_breath_cartoon.jpg">
+      <PackagePath>Assets\Bad_breath_cartoon.jpg</PackagePath>
+      <Modified>2013-12-02T17:15:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\calendula.jpg">
+      <PackagePath>Assets\calendula.jpg</PackagePath>
+      <Modified>2013-12-02T17:01:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\consalt.jpg">
+      <PackagePath>Assets\consalt.jpg</PackagePath>
+      <Modified>2013-12-02T15:35:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\Day-creams.jpg">
+      <PackagePath>Assets\Day-creams.jpg</PackagePath>
+      <Modified>2013-12-02T15:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\dental.jpg">
+      <PackagePath>Assets\dental.jpg</PackagePath>
+      <Modified>2013-12-02T16:58:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\digestion.jpg">
+      <PackagePath>Assets\digestion.jpg</PackagePath>
+      <Modified>2013-12-02T15:53:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\eggyolk.jpg">
+      <PackagePath>Assets\eggyolk.jpg</PackagePath>
+      <Modified>2013-12-02T15:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\exfoliate.jpg">
+      <PackagePath>Assets\exfoliate.jpg</PackagePath>
+      <Modified>2013-12-02T15:36:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\eyeproblems.jpg">
+      <PackagePath>Assets\eyeproblems.jpg</PackagePath>
+      <Modified>2013-12-02T16:16:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\eyesigh.jpg">
+      <PackagePath>Assets\eyesigh.jpg</PackagePath>
+      <Modified>2013-12-02T16:50:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\fiberfood.jpg">
+      <PackagePath>Assets\fiberfood.jpg</PackagePath>
+      <Modified>2013-12-02T16:09:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\good.jpg">
+      <PackagePath>Assets\good.jpg</PackagePath>
+      <Modified>2013-12-02T17:07:00.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\handfra.jpg">
+      <PackagePath>Assets\handfra.jpg</PackagePath>
+      <Modified>2013-12-02T17:39:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\Healthy-Eating-In-The-Usa.jpg">
+      <PackagePath>Assets\Healthy-Eating-In-The-Usa.jpg</PackagePath>
+      <Modified>2013-12-02T15:46:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\image066.jpg">
+      <PackagePath>Assets\image066.jpg</PackagePath>
+      <Modified>2013-12-02T17:09:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\injuries.jpg">
+      <PackagePath>Assets\injuries.jpg</PackagePath>
+      <Modified>2013-12-02T17:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\leg.jpg">
+      <PackagePath>Assets\leg.jpg</PackagePath>
+      <Modified>2013-12-02T17:36:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\lemon.jpg">
+      <PackagePath>Assets\lemon.jpg</PackagePath>
+      <Modified>2013-12-02T16:55:34.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\lifestyle.jpg">
+      <PackagePath>Assets\lifestyle.jpg</PackagePath>
+      <Modified>2013-12-02T16:47:36.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\natural-herbs-500x500.jpg">
+      <PackagePath>Assets\natural-herbs-500x500.jpg</PackagePath>
+      <Modified>2013-12-02T15:59:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\oral.jpg">
+      <PackagePath>Assets\oral.jpg</PackagePath>
+      <Modified>2013-12-02T17:04:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\protein-diet-plan.jpg">
+      <PackagePath>Assets\protein-diet-plan.jpg</PackagePath>
+      <Modified>2013-12-02T16:21:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\skinproblem.jpg">
+      <PackagePath>Assets\skinproblem.jpg</PackagePath>
+      <Modified>2013-12-02T15:27:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\stress1.jpg">
+      <PackagePath>Assets\stress1.jpg</PackagePath>
+      <Modified>2013-12-02T18:03:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\toothcare.JPG">
+      <PackagePath>Assets\toothcare.JPG</PackagePath>
+      <Modified>2013-12-02T17:11:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\washface.jpg">
+      <PackagePath>Assets\washface.jpg</PackagePath>
+      <Modified>2013-12-02T15:30:06.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\yoga.jpg">
+      <PackagePath>Assets\yoga.jpg</PackagePath>
+      <Modified>2013-12-02T18:09:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\yogurt.jpg">
+      <PackagePath>Assets\yogurt.jpg</PackagePath>
+      <Modified>2013-12-02T16:06:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\batch2424.png">
+      <PackagePath>Assets\batch2424.png</PackagePath>
+      <Modified>2013-12-03T18:49:46.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\newsplash copy.png">
+      <PackagePath>Assets\newsplash copy.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-03T18:49:08.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\smile.png">
+      <PackagePath>Assets\smile.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-03T18:53:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\ayurved.png">
+      <PackagePath>Assets\ayurved.png</PackagePath>
+      <Modified>2013-12-02T16:53:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\finger.png">
+      <PackagePath>Assets\finger.png</PackagePath>
+      <Modified>2013-12-02T17:28:48.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\juice.png">
+      <PackagePath>Assets\juice.png</PackagePath>
+      <Modified>2013-12-02T16:14:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T16:38:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\wide copy.png">
+      <PackagePath>Assets\wide copy.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-12-03T18:52:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\body_aches.jpeg">
+      <PackagePath>Assets\body_aches.jpeg</PackagePath>
+      <Modified>2013-12-02T17:40:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\Assets\eye.jpeg">
+      <PackagePath>Assets\eye.jpeg</PackagePath>
+      <Modified>2013-12-02T16:19:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-12-01T18:19:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T10:49:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\GroupedItemsPage.xaml">
+      <PackagePath>GroupedItemsPage.xaml</PackagePath>
+      <Modified>2013-12-01T18:19:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\GroupDetailPage.xaml">
+      <PackagePath>GroupDetailPage.xaml</PackagePath>
+      <Modified>2013-12-01T18:19:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\ItemDetailPage.xaml">
+      <PackagePath>ItemDetailPage.xaml</PackagePath>
+      <Modified>2013-12-01T18:19:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\Secure Health\Secure Health\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-12-04T06:27:04.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
